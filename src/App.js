@@ -8,6 +8,7 @@ console.log('render Temp')
   )
 }
 
+// initial
 class App extends PureComponent {
   state = {
     val: 1
